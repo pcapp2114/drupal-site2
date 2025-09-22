@@ -1,0 +1,7 @@
+pollinations_ai_fetch_block.page:
+  path: '/pollinations-ai-demo'
+  defaults:
+    _controller: '\Drupal\pollinations_ai_fetch_block\Controller\PollinationsAiController::content'
+    _title: 'Pollinations AI Demo'
+  requirements:
+    _permission: 'access content'

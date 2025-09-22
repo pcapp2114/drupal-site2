@@ -43,6 +43,8 @@ config-dump
 /.docksal
 .ddev/
 /.ddev/
+.claude/
+/.claude/
 
 #Ignore DS_Store files
 **/.DS_Store

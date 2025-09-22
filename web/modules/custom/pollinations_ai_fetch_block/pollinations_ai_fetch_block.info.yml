@@ -1,0 +1,5 @@
+name: 'Pollinations AI Fetch Block'
+type: module
+description: 'Custom module that provides blocks and pages for fetching images from Pollinations AI'
+core_version_requirement: ^11
+package: Custom
