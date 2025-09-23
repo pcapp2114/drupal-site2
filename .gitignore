@@ -53,4 +53,3 @@ config-dump
 /web/themes/custom/barrio_sub_theme/.bundle
 /web/themes/custom/barrio_sub_theme/Gemfile
 /web/themes/custom/barrio_sub_theme/Gemfile.lock
-/test
